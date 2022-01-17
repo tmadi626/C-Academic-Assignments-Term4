@@ -1,5 +1,5 @@
 # Academic-Assignments
-Academic assignments(C++) - Term3: May-Aug, 2021
+Term3 | May-Aug, 2021 
 
 Files:
 ------
