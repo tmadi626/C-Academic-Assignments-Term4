@@ -1,0 +1,5 @@
+Paris,0,0
+Paris,0,1
+Paris,1,1
+Paris,1,0
+Parris,0,0
